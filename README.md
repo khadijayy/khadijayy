@@ -56,6 +56,8 @@ Here’s a quick look at my GitHub stats. It's a work in progress, but it’s al
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=radical)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?username=khadijayy&theme=radical)
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khadijayy&theme=radical)
+
 
 ---
 
