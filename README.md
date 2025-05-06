@@ -49,16 +49,6 @@ Here’s my tech stack, looking colorful and awesome! 🎨
 - ![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
 - ![ML](https://img.shields.io/badge/ML-FFB7C5?style=for-the-badge&logo=ml&logoColor=white)
 
----
-
-## 📚 My Learning Adventure
-
-I’m always on the lookout for new challenges and ways to grow. Here’s what I’m working on right now:
-
-- 📝 **Algorithm Practice**: Tackling **sorting**, **graphs**, and **dynamic programming** like a boss.
-- 💡 **Software Design**: Focused on **object-oriented programming**, clean code, and **system design**.
-- 🚀 **MERN Stack**: Deep diving into **MongoDB**, **Express.js**, **React**, and **Node.js** to level up my full-stack skills.
-- 📱 **Mobile Development**: Exploring **Android Studio** for building native mobile applications.
 
 ---
 
@@ -66,9 +56,9 @@ I’m always on the lookout for new challenges and ways to grow. Here’s what I
 
 Here’s a quick look at my GitHub stats. It's a work in progress, but it’s always fun to see the growth! 🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&count_private=true&theme=radical)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=khadijayy&theme=radical)
 
 ---
 
