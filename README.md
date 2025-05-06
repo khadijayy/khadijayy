@@ -1,37 +1,38 @@
-# 👋 Hey, I'm Khadija!
+# Khadija Subhani
 
-Welcome to my GitHub! I'm a **Software Engineer** who's passionate about coding, problem-solving, and building awesome things that make a difference. When I'm not diving deep into **algorithms & data structures**, I'm building cool **full-stack applications**, experimenting with **game development**, or just daydreaming about the next big project. 😎
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid learner, constantly striving to improve my skills. My focus is on **algorithms & data structures**, **full-stack development**, **game development**, and **Artificial Intelligence**.
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **React**, **Node.js**, and a little bit of **game development** for fun. 
-- 💻 Super into **backend development**, especially with **MongoDB** and **Django** — I love making things run smoothly behind the scenes.
-- 👯 Looking to collaborate on **open-source projects**, **coding challenges**, or even just geek out about the latest tech.
-- ⚡ Fun fact: When I'm not coding, you can find me with a camera in hand, snapping photos and blending creativity with code. 📸
+- 🌱 Currently learning **React**, **Node.js**, and **game development**.
+- 💻 I am particularly interested in **backend development** using **MongoDB** and **Django**.
+- 👯 I’m looking to collaborate on **open-source projects** and **coding challenges**.
+- ⚡ Fun fact: I also love **photography**, and I try to combine creativity with my coding skills.
 
 ---
 
-## 🛠️ Tech I Love
+## 🛠️ Technologies & Tools
 
-Here’s what I use to bring my projects to life:
+Here’s my tech stack, looking colorful and awesome! 🎨
 
 **Languages**:
-- C++
-- Python
-- JavaScript (React)
-- Java (Swing)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 **Frameworks & Tools**:
-- Django
-- MongoDB
-- Node.js
-- MySQL
-- Git/GitHub
-- Android Studio
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 **Libraries**:
-- React
-- Express.js
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
@@ -87,18 +88,3 @@ Want to chat about **coding**, **open-source**, or even **photography**? Feel fr
 I’m always up for learning new things and collaborating on cool projects. So, if you’ve got an idea or want to team up on something, drop me a message! Let’s create something that blows everyone away. 🚀
 
 ---
-
-<!--
-**khadijayy/khadijayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
