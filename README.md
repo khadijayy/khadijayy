@@ -1,78 +1,73 @@
-<!-- GitHub Profile README -->
+# **<div align="center">Khadija Subhani</div>**
 
-<h1 align="center">✨ Khadija Subhani ✨</h1>
-<h3 align="center">Software Engineer | Problem Solver | Creative Coder</h3>
+### **<div align="center">Software Engineer | Problem Solver</div>**
 
-<p align="center">
-  Welcome to my GitHub profile! I'm a passionate <strong>Software Engineer</strong> and an avid learner. My focus is on <strong>algorithms & data structures</strong>, <strong>full-stack development</strong>, <strong>game development</strong>, <strong>mobile development</strong>, and <strong>AI</strong>.
-</p>
-
----
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid learner, constantly striving to improve my skills. My focus is on **algorithms & data structures**, **full-stack development**, **game development**, **mobile development (Android Studio)**, and **Artificial Intelligence**.
 
 ## 🚀 About Me
 
-- 🔧 Full-time coder, part-time digital explorer.
-- ☕ Believer in coffee, code, and creativity.
-- 🎮 Game dev enthusiast, building my virtual world one pixel at a time.
-- 📸 I blend my love for photography with code to create visual magic.
+- 🌟 Full-time coder, part-time explorer of the digital universe.
+- 💡 I believe in solving problems with **coffee**, **code**, and a sprinkle of **creativity**.
+- 🎮 When I'm not coding, you can find me immersed in **game development** and **app development** trying to make my own virtual world.
+- 📸 Fun fact: I also love **photography**, and I try to combine creativity with my coding skills.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Technologies & Tools**
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+### **Languages**:
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-### 🧰 Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FD6C35?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+### **Frameworks & Tools**:
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### 🛢️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+### **Databases**:
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### **Web Technologies**:
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🤖 AI & ML
-![AI](https://img.shields.io/badge/AI-black?style=for-the-badge&logo=tensorflow&logoColor=FF6F61)
-![ML](https://img.shields.io/badge/Machine%20Learning-FFB7C5?style=for-the-badge&logo=scikit-learn&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=radical" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijayy&theme=radical" alt="GitHub Streak" />
-</p>
+### **Libraries & Tools**:
+- ![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![ML](https://img.shields.io/badge/ML-FFB7C5?style=for-the-badge&logo=ml&logoColor=white)
 
 ---
 
-## 📫 Let’s Connect
+## 📈 GitHub Stats & Achievements
 
-- 📧 Email: **khadijasubhani71@gmail.com**
-- 💼 LinkedIn: [Khadija's LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+Here’s a quick look at my GitHub stats. It's a work in progress, but it’s always fun to see the growth! 🚀
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?username=khadijayy&theme=radical)
 
 ---
 
-## 💡 Let’s Build Something Awesome
+## 📫 **Let’s Connect!**
 
-Open to collaborations in coding, open source, or just creative ideas — let’s bring them to life! 🌟
+Want to chat about **coding**, **open-source**, or even **photography**? Feel free to reach out, and let’s make something amazing together!
+
+- 📧 **Email**: khadijasubhani71@gmail.com
+- 🌐 **LinkedIn**: [Khadija's LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+
+---
+
+## 💡 **Let’s Build Something Awesome!**
+
+I’m always up for learning new things and collaborating on cool projects. So, if you’ve got an idea or want to team up on something, drop me a message! Let’s create something that blows everyone away.  
