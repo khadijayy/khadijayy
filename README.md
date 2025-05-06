@@ -1,76 +1,80 @@
-# <div align="center">👩‍💻 Khadija Subhani</div>
+<!-- NORD THEME README -->
 
-### <div align="center">Software Engineer | Problem Solver</div>
+<div align="center">
+  
+  <h1 style="color:#81A1C1;">Khadija Subhani</h1>
+  <h3 style="color:#88C0D0;">Software Engineer | Problem Solver</h3>
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid learner, constantly striving to improve my skills. My focus is on **algorithms & data structures**, **full-stack development**, **game development**, **mobile development (Android Studio)**, and **Artificial Intelligence**.
+  <p style="color:#D8DEE9;">Passionate about turning ideas into reality through code.</p>
 
----
-
-## 🚀 About Me
-
-- 🌟 Full-time coder, part-time explorer of the digital universe.
-- 💡 I believe in solving problems with **coffee**, **code**, and a sprinkle of **creativity**.
-- 🎮 Into **game dev** and **mobile dev**—I like building my own virtual worlds.
-- 📸 Fun fact: I love **photography**, and blend that creativity into coding.
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🌌 About Me
 
-### 🧠 Languages
-
-![C++](https://img.shields.io/badge/C++-5E81AC?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-88C0D0?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-81A1C1?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-4C566A?style=flat-square&logo=java&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-
-### 🧰 Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-88C0D0?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-2E3440?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3B4252?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-
-### 🗃️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 🌐 Web Technologies
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+- 🧠 Software Engineer | Explorer of the Digital Realm  
+- 💡 Fuelled by **coffee**, **code**, and a pinch of **creativity**
+- 🎮 Into **game development** and **Android apps** — love building virtual worlds
+- 📸 Passionate about **photography** — I blend visual storytelling with code
 
 ---
 
-## 📊 GitHub Stats
+### 🔧 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=nord)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=nord)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadijayy&theme=nord)
+#### Languages
+![C++](https://img.shields.io/badge/C++-5E81AC?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-81A1C1?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-EBCB8B?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-B48EAD?style=for-the-badge&logo=java&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-BF616A?style=for-the-badge&logo=ruby&logoColor=white)
+
+#### Frameworks & Tools
+![React](https://img.shields.io/badge/React-8FBCBB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-A3BE8C?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-434C5E?style=for-the-badge&logo=django&logoColor=white)
+![Rails](https://img.shields.io/badge/Ruby_on_Rails-BF616A?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D08770?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-4C566A?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-EBCB8B?style=for-the-badge&logo=postman&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-5E81AC?style=for-the-badge&logo=jira&logoColor=white)
+
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-A3BE8C?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-81A1C1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-88C0D0?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Web Technologies
+![HTML](https://img.shields.io/badge/HTML-ECEFF4?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-5E81AC?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-8FBCBB?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-D08770?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-EBCB8B?style=for-the-badge&logo=ml&logoColor=black)
 
 ---
 
-## 📫 Let's Connect
+### 📊 GitHub Stats
 
-Want to talk about **code**, **open-source**, or **photography**?
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&count_private=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&theme=nord)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=khadijayy&theme=nord)
+
+</div>
+
+---
+
+### 📫 Contact Me
 
 - 📧 **Email**: khadijasubhani71@gmail.com  
-- 🌐 **LinkedIn**: [Khadija on LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 💼 **LinkedIn**: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/khadija-subhani-41)
 
 ---
 
-## 💡 Let’s Build Something Awesome
-
-I'm always open to collaboration. Drop a message and let’s innovate something together.
-
----
-
-Would you like me to generate the full `README.md` file so you can just copy-paste it into your repo?
+<div align="center">
+  <strong style="color:#81A1C1;">Let's build something cool together. 🚀</strong>
+</div>
