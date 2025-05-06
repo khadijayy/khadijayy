@@ -1,6 +1,6 @@
-# **<div align="center" style="color:#1e3a8a;">Khadija Subhani</div>**
+# **<div align="center">Khadija Subhani</div>**
 
-### **<div align="center" style="color:#3b82f6;">Software Engineer | Problem Solver</div>**
+### **<div align="center">Software Engineer | Problem Solver</div>**
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid learner, constantly striving to improve my skills. My focus is on **algorithms & data structures**, **full-stack development**, **game development**, **mobile development (Android Studio)**, and **Artificial Intelligence**.
 
@@ -53,9 +53,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid
 
 Here’s a quick look at my GitHub stats. It's a work in progress, but it’s always fun to see the growth! 🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=blue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=blue)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?username=khadijayy&theme=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?username=khadijayy&theme=radical)
 
 ---
 
@@ -70,4 +70,4 @@ Want to chat about **coding**, **open-source**, or even **photography**? Feel fr
 
 ## 💡 **Let’s Build Something Awesome!**
 
-I’m always up for learning new things and collaborating on cool projects. So, if you’ve got an idea or want to team up on something, drop me a message! Let’s create something that blows everyone away. 🚀
+I’m always up for learning new things and collaborating on cool projects. So, if you’ve got an idea or want to team up on something, drop me a message! Let’s create something that blows everyone away.
