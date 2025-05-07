@@ -81,7 +81,7 @@ Here’s a quick look at my GitHub stats. It's a work in progress, but it’s al
 Want to chat about **coding**, **open-source**, or even **photography**? Feel free to reach out, and let’s make something amazing together!
 
 - 📧 **Email**: khadijasubhani71@gmail.com
-- 🌐 **LinkedIn**: [Khadija's LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 🌐 **LinkedIn**: [Khadija's LinkedIn](https://www.linkedin.com/in/khadija-subhani-418b9b263/)
 
 ---
 
