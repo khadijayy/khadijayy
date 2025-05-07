@@ -53,9 +53,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid
 
 Here’s a quick look at my GitHub stats. It's a work in progress, but it’s always fun to see the growth! 🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=radical)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?username=khadijayy&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=graywhite&bg_color=0A192F&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=graywhite&bg_color=0A192F&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=khadijayy&theme=github-dark-blue&background=0A192F&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF)
 
 ---
 
