@@ -52,10 +52,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid
 ## 📈 GitHub Stats & Achievements
 
 Here’s a quick look at my GitHub stats. It's a work in progress, but it’s always fun to see the growth! 🚀
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=github-dark-blue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=github-dark-blue)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=graywhite&bg_color=0A192F&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=graywhite&bg_color=0A192F&title_color=ffffff&text_color=ffffff&icon_color=ffffff) 
 
 ---
 
