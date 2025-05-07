@@ -13,41 +13,52 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid
 
 ---
 
-## 🛠️ **Technologies & Tools**
+## 🛠️ <strong>Technologies & Tools</strong>
 
-### **Languages**:
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+### <strong>Languages:</strong>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/C++-2D3A4A?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-346E9C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-3C3C3C?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Java-395A7F?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-8B2E2E?style=for-the-badge&logo=ruby&logoColor=white" />
+</div>
 
-### **Frameworks & Tools**:
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+### <strong>Frameworks & Tools:</strong>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/React-3D4451?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-2D3A4A?style=for-the-badge&logo=node.js&logoColor=3C873A" />
+  <img src="https://img.shields.io/badge/Django-2D3A4A?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rails-6F2B2B?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-30363D?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-3B3B3B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-3E3E3E?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Jira-2E3B4E?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-2D3A4A?style=for-the-badge&logo=android-studio&logoColor=3DDC84" />
+</div>
 
-### **Databases**:
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### <strong>Databases:</strong>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/MongoDB-2E3B4E?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/PostgreSQL-3D4451?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-2D3A4A?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-### **Web Technologies**:
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### <strong>Web Technologies:</strong>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/HTML-3B3B3B?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-2D3A4A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Tailwind-3D4451?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+</div>
 
-### **Libraries & Tools**:
-- ![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
-- ![ML](https://img.shields.io/badge/ML-FFB7C5?style=for-the-badge&logo=ml&logoColor=white)
+### <strong>Libraries & Tools:</strong>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/AI-4A5361?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML-708090?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</div>
 
----
+
+
 
 ## 📈 GitHub Stats & Achievements
 
@@ -62,6 +73,7 @@ Here’s a quick look at my GitHub stats. It's a work in progress, but it’s al
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=github_dark_blue&bg_color=000000&title_color=ffffff&text_color=add8e6&icon_color=add8e6" />
 </p>
+
 
 
 ## 📫 **Let’s Connect!**
