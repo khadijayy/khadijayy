@@ -64,15 +64,21 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid
 
 Here’s a quick look at my GitHub stats. It's a work in progress, but it’s always fun to see the growth! 🚀
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=github_dark_blue&bg_color=000000&title_color=ffffff&text_color=add8e6&icon_color=add8e6" />
-</p>
-
-</br>
+![Profile Views](https://komarev.com/ghpvc/?username=khadijayy&color=blue)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=github_dark_blue&bg_color=000000&title_color=ffffff&text_color=add8e6&icon_color=add8e6" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=github_dark_blue&bg_color=000000&title_color=ffffff&text_color=add8e6&icon_color=add8e6" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijayy&layout=compact&count_private=true&theme=github_dark_blue&bg_color=000000&title_color=ffffff&text_color=add8e6&icon_color=add8e6" />
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 
 
