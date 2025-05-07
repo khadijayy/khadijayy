@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid
 
 - 🌟 Full-time coder, part-time explorer of the digital universe.
 - 💡 I believe in solving problems with **coffee**, **code**, and a sprinkle of **creativity**.
-- 🎮 When I'm not coding, you can find me immersed in **game development** and **app development** trying to make my own virtual world.
+- 🎮 When I'm not coding, you can find me immersed in **game development** and **app development**, as I try to build my own virtual world..
 - 📸 Fun fact: I also love **photography**, and I try to combine creativity with my coding skills.
 
 ---
@@ -93,4 +93,4 @@ Want to chat about **coding**, **open-source**, or even **photography**? Feel fr
 
 ## 💡 **Let’s Build Something Awesome!**
 
-I’m always up for learning new things and collaborating on cool projects. So, if you’ve got an idea or want to team up on something, drop me a message! Let’s create something that blows everyone away.  
+I’m always up for learning new things and collaborating on cool projects. So, if you’ve got an idea or want to team up on something, drop me a message! Let’s create something that blows everyone away.   
