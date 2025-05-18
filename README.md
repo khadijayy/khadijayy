@@ -84,5 +84,10 @@ Want to chat about **coding**, **open-source**, or even **photography**? Feel fr
 
 ## 💡 **Let’s Build Something Awesome!**
 
-I’m always up for learning new things and collaborating on cool projects. So, if you’ve got an idea or want to team up on something, drop me a message! Let’s create something that blows everyone away.   
+I’m always up for learning new things and collaborating on cool projects. So, if you’ve got an idea or want to team up on something, drop me a message! Let’s create something that blows everyone away.  
+
+<div  align = "center" >
+  
+![snake gif](https://github.com/khadijayy/khadijayy/blob/output/github-snake-dark.svg)
+</div>
 
