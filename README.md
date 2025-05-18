@@ -12,50 +12,33 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid
 - 📸 Fun fact: I also love **photography**, and I try to combine creativity with my coding skills.
 
 ---
-
 ## 🛠️ <strong>Technologies & Tools</strong>
 
 ### <strong>Languages:</strong>
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/C++-2D3A4A?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-346E9C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-3C3C3C?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Java-395A7F?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-8B2E2E?style=for-the-badge&logo=ruby&logoColor=white" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,ruby" />
+</p>
 
 ### <strong>Frameworks & Tools:</strong>
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/React-3D4451?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-2D3A4A?style=for-the-badge&logo=node.js&logoColor=3C873A" />
-  <img src="https://img.shields.io/badge/Django-2D3A4A?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rails-6F2B2B?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-30363D?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-3B3B3B?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-3E3E3E?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/Jira-2E3B4E?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-2D3A4A?style=for-the-badge&logo=android-studio&logoColor=3DDC84" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,rails,git,github,postman,androidstudio" />
+</p>
 
 ### <strong>Databases:</strong>
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/MongoDB-2E3B4E?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/PostgreSQL-3D4451?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-2D3A4A?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
 
 ### <strong>Web Technologies:</strong>
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/HTML-3B3B3B?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS-2D3A4A?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Tailwind-3D4451?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</p>
 
-### <strong>Libraries & Tools:</strong>
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/AI-4A5361?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML-708090?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</div>
+### <strong>Libraries & ML Tools:</strong>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn" />
+</p>
+
 
 
 
@@ -90,4 +73,3 @@ I’m always up for learning new things and collaborating on cool projects. So, 
   
 ![snake gif](https://github.com/khadijayy/khadijayy/blob/output/github-snake-dark.svg)
 </div>
-
