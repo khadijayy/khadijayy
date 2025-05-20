@@ -40,9 +40,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid
 </p>
 
 
-
-
-
 ## 📈 GitHub Stats & Achievements
 
 Here’s a quick look at my GitHub stats. It's a work in progress, but it’s always fun to see the growth! 🚀
