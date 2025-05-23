@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid
 
 ### <strong>Frameworks & Tools:</strong>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django,rails,git,github,postman,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,rails,git,github,postman,androidstudio,figma" />
 </p>
 
 ### <strong>Databases:</strong>
