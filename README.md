@@ -2,7 +2,7 @@
 
 ### **<div align="center">Software Engineer | Problem Solver</div>**
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid learner, constantly striving to improve my skills. My focus is on **algorithms & data structures**, **full-stack development**, **game development**, **mobile development (Android Studio)**, and **Artificial Intelligence**.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid learner, constantly striving to improve my skills. My focus is on **algorithms & data structures**, **game development**, **mobile development (Android Studio)**, and **Artificial Intelligence**.
 
 ## 🚀 About Me
 
