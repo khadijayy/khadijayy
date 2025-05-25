@@ -1,17 +1,20 @@
 # **<div align="center">Khadija Subhani</div>**
 
 ### **<div align="center">Software Engineer | Problem Solver</div>**
+<div align="center">Through keys and lenses — I create ⌨️📸</div>
+<br>
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** and an avid learner, constantly striving to improve my skills. My focus is on **algorithms & data structures**, **game development**, **mobile development (Android Studio)**, and **Artificial Intelligence**.
+I'm a curious-minded **Software Engineer** who loves turning ideas into code.  
+Currently geeking out over **Data Structures & Algorithms**, **Artificial Intelligence**, **Game Development**, and **Android App Development**.
 
 ## 🚀 About Me
 
-- 🌟 Full-time coder, part-time explorer of the digital universe.
-- 💡 I believe in solving problems with **coffee**, **code**, and a sprinkle of **creativity**.
-- 🎮 When I'm not coding, you can find me immersed in **game development** and **app development**, as I try to build my own virtual world..
-- 📸 Fun fact: I also love **photography**, and I try to combine creativity with my coding skills.
+- 🎮 Code junkie by day, virtual world builder by night.
+- 💡 Big believer in creative problem-solving (and yes — coffee helps!). 
+- 📸 Also into photography — blending visuals and tech whenever I can.
 
 ---
+
 ## 🛠️ <strong>Technologies & Tools</strong>
 
 ### <strong>Languages:</strong>
