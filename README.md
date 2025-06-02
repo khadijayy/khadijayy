@@ -1,7 +1,6 @@
 # **<div align="center">Khadija Subhani</div>**
 
 ### **<div align="center">Software Engineer | Problem Solver</div>**
-<div align="center">Through keys and lenses — I create ⌨️📸</div>
 <br>
 
 I'm a curious-minded **Software Engineer** who loves turning ideas into code.  
