@@ -4,7 +4,7 @@
 <br>
 
 I'm a curious-minded **Software Engineer** who loves turning ideas into code.  
-Currently geeking out over **Data Structures & Algorithms**, **Artificial Intelligence**, **Game Development**, and **Android App Development**.
+Currently geeking out over **Data Structures & Algorithms**, **Artificial Intelligence**, and **Android App Development**.
 
 ## 🚀 About Me
 
