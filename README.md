@@ -18,7 +18,7 @@ Currently geeking out over **Data Structures & Algorithms**, **Artificial Intell
 
 ### <strong>Languages:</strong>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,ruby" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,ruby,dart" />
 </p>
 
 ### <strong>Frameworks & Tools:</strong>
