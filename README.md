@@ -44,8 +44,6 @@ Currently geeking out over **Data Structures & Algorithms**, **Artificial Intell
 
 ## 📈 GitHub Stats & Achievements
 
-Here’s a quick look at my GitHub stats. It's a work in progress, but it’s always fun to see the growth! 🚀
-
 ![Profile Views](https://komarev.com/ghpvc/?username=khadijayy&color=blue)
 
 <p align="center">
