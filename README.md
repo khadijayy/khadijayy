@@ -3,7 +3,7 @@
 ### **<div align="center">Software Engineer | Problem Solver</div>**
 <br>
 
-I'm a curious-minded **Software Engineer** who loves turning ideas into code.  
+I'm a curious-minded **Software Engineer** who loves turning ideas into code.
 Currently geeking out over **Data Structures & Algorithms**, **Artificial Intelligence**, and **Android App Development**.
 
 ## 🚀 About Me
