@@ -21,6 +21,7 @@ Currently geeking out over **Data Structures & Algorithms**, **Artificial Intell
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,ruby,dart" />
 </p>
 
+
 ### <strong>Frameworks & Tools:</strong>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,django,rails,git,github,postman,androidstudio,figma" />
@@ -40,6 +41,13 @@ Currently geeking out over **Data Structures & Algorithms**, **Artificial Intell
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn" />
 </p>
+
+### <strong>Problem Solving:</strong>
+<p align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode" />
+
+</p>
+
 
 
 ## 📈 GitHub Stats & Achievements
@@ -64,7 +72,7 @@ Want to chat about **coding**, **open-source**, or even **photography**? Feel fr
 
 ## 💡 **Let’s Build Something Awesome!**
 
-I’m always up for learning new things and collaborating on cool projects. So, if you’ve got an idea or want to team up on something, drop me a message! Let’s create something that blows everyone away.  
+I’m always up for learning new things and collaborating on cool projects. So, if you’ve got an idea or want to team up on something, drop me a message! Let’s create something impactful together.  
 
 <div  align = "center" >
   
