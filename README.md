@@ -41,7 +41,7 @@ Currently geeking out over **Data Structures & Algorithms**, **Artificial Intell
 
 ### <strong>Libraries & ML Tools:</strong>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn" />
+<img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn" />
 </p>
 
 ### <strong>Problem Solving:</strong>
