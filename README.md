@@ -1,6 +1,8 @@
 # **<div align="center">Khadija Subhani</div>**
 
 ### **<div align="center">Software Engineer | Problem Solver</div>**
+
+### **<div align="center"> ![Profile Views](https://komarev.com/ghpvc/?username=khadijayy&color=blue)</div>**
 <br>
 
 I'm a curious-minded **Software Engineer** who loves turning ideas into code.
@@ -51,8 +53,6 @@ Currently geeking out over **Data Structures & Algorithms**, **Artificial Intell
 
 
 ## 📈 GitHub Stats & Achievements
-
-![Profile Views](https://komarev.com/ghpvc/?username=khadijayy&color=blue)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=github_dark_blue&bg_color=000000&title_color=ffffff&text_color=add8e6&icon_color=add8e6" />
