@@ -18,39 +18,7 @@ Currently geeking out over **Data Structures & Algorithms**, **Artificial Intell
 
 ## 🛠️ <strong>Technologies & Tools</strong>
 
-### <strong>Languages:</strong>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,ruby,dart" />
-</p>
-
-
-### <strong>Frameworks & Tools:</strong>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django,rails,git,github,postman,androidstudio,figma" />
-</p>
-
-### <strong>Databases:</strong>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-</p>
-
-### <strong>Web Technologies:</strong>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-</p>
-
-### <strong>Libraries & ML Tools:</strong>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn" />
-</p>
-
-### <strong>Problem Solving:</strong>
-<p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode" />
-
-</p>
-
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,ruby,dart,react,nodejs,django,rails,git,github,postman,androidstudio,figma,mongodb,postgres,mysql,html,css,tailwind,tensorflow,scikitlearn" /></p>  
 
 ## 📈 GitHub Stats & Achievements
 
