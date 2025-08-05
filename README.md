@@ -30,13 +30,9 @@ Currently geeking out over **Data Structures & Algorithms**, **Artificial Intell
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijayy&theme=black-ice&hide_border=true&background=000000&stroke=add8e6&ring=add8e6&fire=add8e6&currStreakLabel=add8e6&sideNums=add8e6&sideLabels=add8e6&dates=add8e6"/>
 </p>
 
-
-
 ## 📫 **Let’s Connect!**
 
-Want to chat about **coding**, **open-source**, or even **photography**? Feel free to reach out, and let’s make something amazing together!
-
-<p align="center"> <a href="mailto:khadijasubhani71@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-3D4451?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> &nbsp; <a href="https://www.linkedin.com/in/khadija-subhani-418b9b263/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-2E3B4E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="https://www.instagram.com/khadeejjayyy/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-4A5361?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </p>
+<p align="left"> <a href="mailto:khadijasubhani71@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-3D4451?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> &nbsp; <a href="https://www.linkedin.com/in/khadija-subhani-418b9b263/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-2E3B4E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="https://www.instagram.com/khadeejjayyy/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-4A5361?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </p>
 
 <div  align = "center" >
   
