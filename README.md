@@ -70,10 +70,6 @@ Want to chat about **coding**, **open-source**, or even **photography**? Feel fr
 
 <p align="center"> <a href="mailto:khadijasubhani71@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-3D4451?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> &nbsp; <a href="https://www.linkedin.com/in/khadija-subhani-418b9b263/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-2E3B4E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="https://www.instagram.com/khadeejjayyy/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-4A5361?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </p>
 
-## 💡 **Let’s Build Something Awesome!**
-
-I’m always up for learning new things and collaborating on cool projects. So, if you’ve got an idea or want to team up on something, drop me a message! Let’s create something impactful together.  
-
 <div  align = "center" >
   
 ![snake gif](https://github.com/khadijayy/khadijayy/blob/output/github-snake-dark.svg)
