@@ -26,9 +26,6 @@ Currently geeking out over **Data Structures & Algorithms**, **Artificial Intell
   <img src="https://github-readme-stats.vercel.app/api?username=khadijayy&show_icons=true&hide_title=true&count_private=true&theme=github_dark_blue&bg_color=000000&title_color=ffffff&text_color=add8e6&icon_color=add8e6" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijayy&theme=black-ice&hide_border=true&background=000000&stroke=add8e6&ring=add8e6&fire=add8e6&currStreakLabel=add8e6&sideNums=add8e6&sideLabels=add8e6&dates=add8e6"/>
-</p>
 
 ## 📫 **Let’s Connect!**
 
