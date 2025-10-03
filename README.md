@@ -11,7 +11,7 @@ Currently geeking out over **Data Structures & Algorithms**, **Artificial Intell
 ## 🚀 About Me
 
 - 🎮 Code junkie by day, virtual world builder by night.
-- 💡 Big believer in creative problem-solving (and yes — coffee helps!). 
+- 💡 Big believer in creative problem-solving (and yes — coffee helps!).
 - 📸 Also into photography — blending visuals and tech whenever I can.
 
 ---
