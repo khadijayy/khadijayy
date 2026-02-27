@@ -20,6 +20,14 @@ Currently focused on strengthening **Data Structures & Algorithms**, developing 
 - 📸 Also into photography — blending visuals and tech whenever I can.
 
 ---
+## 🧠 Build Philosophy
+
+- Write clean code before clever code  
+- Optimize for readability, then performance  
+- Solve the problem first — tools come later  
+- Build things that actually help people
+
+---
 ## 🛠️ <strong>Technologies & Tools</strong>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,ruby,dart,flutter,react,nodejs,django,rails,git,github,postman,androidstudio,figma,mongodb,postgres,mysql,html,css,tailwind,tensorflow,scikitlearn" /></p>  
