@@ -1,21 +1,25 @@
-# **<div align="center">Khadija Subhani</div>**
+# <div align="center">Khadija Subhani</div>
 
-### **<div align="center">Software Engineer | Problem Solver</div>**
+### <div align="center">Software Engineer | Problem Solver</div>
 
-### **<div align="center"> ![Profile Views](https://komarev.com/ghpvc/?username=khadijayy&color=blue)</div>**
-<br>
-
-I'm a curious-minded **Software Engineer** who loves turning ideas into code.
-Currently geeking out over **Data Structures & Algorithms**, **Artificial Intelligence**, and **Android App Development**.
-
-## 🚀 About Me
-
-- 🎮 Code junkie by day, virtual world builder by night.
-- 💡 Big believer in creative problem-solving (and yes — coffee helps!).
-- 📸 Also into photography — blending visuals and tech whenever I can.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khadijayy&color=blue" alt="profile views"/>
+</p>
 
 ---
 
+I’m a **Software Engineer** passionate about building efficient, scalable solutions and solving real-world problems through code.  
+Currently focused on strengthening **Data Structures & Algorithms**, developing **Flutter & Android applications**, and working with **Artificial Intelligence & Machine Learning**.
+
+---
+
+## 🚀 About Me
+
+- 🎮 Code enthusiast by day, creative builder by night  
+- 💡 Strong believer in logical thinking and creative problem-solving
+- 📸 Also into photography — blending visuals and tech whenever I can.
+
+---
 ## 🛠️ <strong>Technologies & Tools</strong>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,ruby,dart,flutter,react,nodejs,django,rails,git,github,postman,androidstudio,figma,mongodb,postgres,mysql,html,css,tailwind,tensorflow,scikitlearn" /></p>  
@@ -35,3 +39,7 @@ Currently geeking out over **Data Structures & Algorithms**, **Artificial Intell
   
 ![snake gif](https://github.com/khadijayy/khadijayy/blob/output/github-snake-dark.svg)
 </div>
+
+---
+⭐ Learning every day. Building step by step. Growing one commit at a time.
+
