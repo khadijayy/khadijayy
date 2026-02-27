@@ -18,7 +18,7 @@ Currently geeking out over **Data Structures & Algorithms**, **Artificial Intell
 
 ## 🛠️ <strong>Technologies & Tools</strong>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,ruby,dart,react,nodejs,django,rails,git,github,postman,androidstudio,figma,mongodb,postgres,mysql,html,css,tailwind,tensorflow,scikitlearn" /></p>  
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,ruby,dart,flutter,react,nodejs,django,rails,git,github,postman,androidstudio,figma,mongodb,postgres,mysql,html,css,tailwind,tensorflow,scikitlearn" /></p>  
 
 ## 📈 GitHub Stats & Achievements
 
