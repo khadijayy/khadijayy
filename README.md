@@ -89,9 +89,9 @@ A simple, reliable reminder app focused on accessibility and ease of use for med
 
 ### 📫 Let's Connect
 
-<p align="left">
-<a href="mailto:khadijasubhani71@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-3D4451?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/khadija-subhani-418b9b263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2E3B4E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<p align="center">
+<a href="mailto:khadijasubhani12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=89ddff" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/khadija-subhani-418b9b263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
 </p>
 
 <div align="center">
