@@ -11,12 +11,12 @@
 
 ### 🎯 About Me
 
-I'm a recent **BS Information Technology graduate (PUCIT, University of the Punjab)**, building full-stack applications with real AI/ML components — not just wrappers around an API call. I care about systems that work end-to-end: clean architecture, sensible data models, and features that actually solve a problem for the person using them.
+Half logic, half curiosity — I love taking a messy real-world problem and turning it into something clean that actually works. Big believer in writing code that makes sense before code that's clever. When I'm not deep in an architecture diagram, I'm probably out shooting photos, looking for the same kind of structure in a frame that I look for in a codebase.
 
 - 🔭 Currently building: extending **AskRAG** with agentic tool-use capabilities
 - 🌱 Strengthening: Data Structures & Algorithms, distributed systems fundamentals
 - 📸 Off-screen: photography — composition habits that sneak into how I think about UI
-- 📫 Reach me: **khadijasubhani12@gmail.com**
+- 📫 Say hi: **khadijasubhani12@gmail.com**
 
 ---
 
