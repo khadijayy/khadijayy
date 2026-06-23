@@ -13,8 +13,6 @@
 
 I'm a recent **BS Information Technology graduate (PUCIT, University of the Punjab)**, building full-stack applications with real AI/ML components — not just wrappers around an API call. I care about systems that work end-to-end: clean architecture, sensible data models, and features that actually solve a problem for the person using them.
 
-Currently looking for **Software Engineer / Associate Software Engineer** roles where I can keep building things like the projects below.
-
 - 🔭 Currently building: extending **AskRAG** with agentic tool-use capabilities
 - 🌱 Strengthening: Data Structures & Algorithms, distributed systems fundamentals
 - 📸 Off-screen: photography — composition habits that sneak into how I think about UI
